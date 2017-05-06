@@ -1,4 +1,4 @@
-Now, when everything is ready, run the watch task and begin to develop your React components.
+Now, when everything is ready, run the watch to deploy locally.
 
 ```
 $ gulp watch
