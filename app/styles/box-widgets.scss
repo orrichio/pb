@@ -1,0 +1,17 @@
+.box-widget {
+    width: 100%;
+    padding: 10px 30px 30px;
+    margin: 10px 0 ;
+    border: 1px solid grey;
+    &.purple {
+        border: 1px solid rebeccapurple
+    }
+    &.danger {
+        border: 1px solid red;
+        background-color: lightgray;
+    }
+    &.padding-small {
+            padding: 10px 30px 10px;
+
+    }
+}
